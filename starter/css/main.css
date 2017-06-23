@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+    background-image: url(../images/black-and-blue-box-wallpaper-hd.jpg);
+    background-attachment: fixed;
+    background-position: center;
+}
+
+
+  .container{
+    background-color: white;
+    margin: 80px;
+    padding: 80px;
+  }
+  h3{
+  	position: absolute; 
+    margin-left: 100px;
+
+  }
